@@ -1,0 +1,6 @@
+{
+  "name": "LiveStream Timer & Countdown",
+  "description": "A high-precision countdown timer designed for OBS and live streaming. Features overtime tracking, red-alert blinking, and a minimal overlay mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
